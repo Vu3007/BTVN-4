@@ -1,0 +1,220 @@
+.container{
+    width: 100%;
+    height: 1000px; 
+    background-color: blanchedalmond;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* head-card */
+.head-card{
+    width: 100%;
+    display: flex;
+    background-color:rgb(210, 210, 220);
+    height: 300px;
+    justify-content: space-around;
+   
+}
+
+.head-card-left{
+    width: 250px;
+    
+    height: 300px;
+    background-color:rgb(210, 210, 220);
+    border-radius: 3px;
+}
+.head-card-left-2{
+font-size: 16px;
+}
+.head-card-center{
+    width: 250px;
+    height: 300px;
+    background-color:rgb(210, 210, 220);
+    
+}
+.head-card-right{
+    width: 250px;
+    height: 300px;
+    background-color:rgb(210, 210, 220);
+}
+/* main card */
+.main-card{
+    width: 100%;
+    display: flex;
+    background-color:rgb(210, 210, 220);
+    height: 300px;
+    justify-content: space-around;
+   
+
+}
+.main-card-left{
+    width: 250px;
+    height: 300px;
+        background-color :rgb(210, 210, 220);}
+
+.main-card-center{
+    width: 250px;
+    height: 300px;
+    background-color:rgb(210, 210, 220);
+}
+.main-card-right{
+    width: 250px;
+    height: 300px;
+    background-color:rgb(210, 210, 220);
+}
+/* bottom card */
+.bottom-card{
+    width: 100%;
+    display: flex;
+    background-color:rgb(39, 115, 196);
+    height: 400px;
+    justify-content: space-around;
+   
+
+}
+.bottom-card-left{
+    width: 250px;
+    height: 300px;
+    background-color:rgb(39, 115, 196);
+}
+.bottom-card-center-1{
+    width: 250px;
+    height: 300px;
+   
+}
+.bottom-card-center-2{
+    width: 250px;
+    height: 300px;
+   
+}
+.bottom-card-right{
+    width: 250px;
+    height: 300px;
+  
+}
+.head-card-left-1{
+    width: 250px;
+    height: 170px;
+    background-color:white;
+  
+}
+.head-card-left-2{
+    width: 250px;
+    height: 100px;
+    background-color: whitesmoke;
+   
+}
+.head-card-center-1{
+    width: 250px;
+    height: 170px;
+    background-color:white;
+}
+.head-card-center-2{
+    width: 250px;
+    height: 100px;
+    background-color:  whitesmoke;
+
+}
+.head-card-right-1{   
+    width: 250px;
+    height: 170px;
+    background-color:white;
+}
+
+    .head-card-right-2{  
+         width: 250px;
+        height: 100px;
+        background-color: whitesmoke;
+    }
+    .main-card-left-1{
+        width: 250px;
+        height: 170px;
+        background-color:white;    
+    }
+    .main-card-left-2{
+        width: 250px;
+        height: 100px;
+        background-color: whitesmoke;   
+    }
+    .main-card-center-1{
+        width: 250px;
+        height: 170px;
+        background-color:white;   
+    }
+    .main-card-center-2{
+        width: 250px;
+        height: 100px;
+        background-color: whitesmoke;   
+    }  
+    .main-card-right-1{
+        width: 250px;
+        height: 170px;
+        background-color:white;   
+    } 
+    .main-card-right-2{
+        width: 250px;
+        height: 100px;
+        background-color: whitesmoke; 
+    }
+    .head-card-left-1 img {
+        width: 100%;
+        object-fit: cover;
+        height: 170px;
+    }
+  .head-card-center-1 img {
+    width: 100%;
+        object-fit: cover;
+        height: 170px;
+    } 
+    .head-card-right-1 img{
+        width: 100%;
+        object-fit: cover;
+        height: 170px;
+    }
+    .main-card-left-1 img{
+        width: 100%;
+        object-fit: cover;
+        height: 170px;
+    }
+    .main-card-center-1 img{
+        width: 100%;
+        object-fit: cover;
+        height: 170px;
+    }
+    .main-card-right-1 img {
+        width: 100%;
+        object-fit: cover;
+        height: 170px;
+    }
+    .a1{
+        font-size: 15px;
+        color: grey;
+    }
+    .a2{
+        color: red;
+    }
+
+    .bottom-card-left{
+        width: fit-content;
+    }
+.bottom-card-center-2{
+    width: fit-content;
+}
+.bottom-card{
+    color: white;
+}
+
+.staricon{
+    display: flex;
+    justify-content: space-between;
+}
+.staricon{color:gray;}
+  
+
+    
+    
+
+
+
